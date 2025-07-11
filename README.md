@@ -1,6 +1,19 @@
 # Data Diva's Hub
 I recently completed an exciting analysis project for REVBYTE Stores using Excel, Power Query, DAX, and Power BI! This challenge tested my skills in data analytics and visualization, and I am thrilled to showcase the outcomes of my work.
 
+
+![Sales Performance](https://github.com/Adenuga-Adeyemi/Data-Diva-s-Hub/blob/main/Sales%20Performance.png)
+
+![Consumer Insights](https://github.com/Adenuga-Adeyemi/Data-Diva-s-Hub/blob/main/Consumer%20Insights.png)
+
+![Returns & Profitability](https://github.com/Adenuga-Adeyemi/Data-Diva-s-Hub/blob/main/Returns%20%26%20Profitability.png)
+
+![Finance & Cost Analysis](https://github.com/Adenuga-Adeyemi/Data-Diva-s-Hub/blob/main/Finance%20%26%20Cost%20Analysis.png)
+
+![Operational Efficiency](https://github.com/Adenuga-Adeyemi/Data-Diva-s-Hub/blob/main/Operational%20Efficiency.png)
+
+![Organizational Performance](https://github.com/Adenuga-Adeyemi/Data-Diva-s-Hub/blob/main/Organizational%20Performance.png)
+
 # Objectives:
 The goal was to analyze and visualize critical business data to:
 1. Evaluate sales performance across regions, business types, and products.
